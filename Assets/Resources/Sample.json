@@ -1,0 +1,16 @@
+{
+  "title": "sample",
+  "bpm": "120",
+  "notes": [
+    {"timing": "5000", "type": "red"},
+    {"timing": "5250", "type": "blue"},
+    {"timing": "5500", "type": "blue"},
+    {"timing": "6000", "type": "red"},
+    {"timing": "6250", "type": "red"},
+    {"timing": "6500", "type": "red"},
+    {"timing": "7000", "type": "red"},
+    {"timing": "7250", "type": "red"},
+    {"timing": "7500", "type": "red"},
+    {"timing": "7750", "type": "blue"}
+  ]
+}
